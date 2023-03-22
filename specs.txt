@@ -1,0 +1,14 @@
+1. parse args and do error checking
+2. spawn child threads
+3. Display populateTree progress bar
+4. Read vocabulary and populateTree
+5. Display vocab fie word count summary 
+6.PopulateTree must exit first
+7. Read prefixes from input file and add them into the queue
+8. Dequeue prefixes from the queue, count words in the tree with prefix prif prefix to file
+9. Display progress bar for countPrefix
+10. Exit the readprefix threads
+11. countPrefix exits
+
+
+Do not use semphamores for mutex
